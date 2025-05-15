@@ -14,7 +14,7 @@ This is a basic password-protected lock system built with an **Arduino**. It use
 
 ## Components
 
-* Arduino Uno (or compatible)
+* Arduino Uno
 * RGB LED
 * Servo Motor
 * Buzzer
