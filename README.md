@@ -19,9 +19,3 @@ This is a basic password-protected lock system built with an **Arduino**. It use
 * Servo Motor
 * Buzzer
 * Jumper wires and breadboard
-
-## Default Password
-
-```plaintext
-1234
-```
